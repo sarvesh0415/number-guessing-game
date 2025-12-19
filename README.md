@@ -11,8 +11,8 @@ This was my first GitHub repository, made while learning Python basics.
 - The computer chooses a random number between 1 and 100
 - You guess the number by typing it in the terminal
 - The game tells you:
-  - Lower number please → if your guess is too high
-  - Higher number please → if your guess is too low
+  - Lower number please → if your guessed number is too high
+  - Higher number please → if your guessed number is too low
 - When you guess correctly, the game ends and shows how many tries you took
 
 ---
